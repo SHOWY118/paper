@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FedCache
 
 This repository is the official Pytorch implementation DEMO of **FedCache**:
@@ -43,3 +44,6 @@ doi = "10.36227/techrxiv.23255420.v2"
 ## Thanks
 
 We thank Xuefeng Jiang for his guidance and suggestions on this repository.
+=======
+# paper
+>>>>>>> 8dbc51fd583e335b0d45b06db59220d3e221aa89
